@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://ipstack.com/
 common:
+  - type: DomainSecurity
+    url: security/ipstack-ipstack-domain-security.yml
   - type: Website
     url: https://ipstack.com/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://blog.apilayer.com/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
